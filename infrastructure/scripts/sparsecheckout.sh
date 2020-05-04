@@ -8,7 +8,7 @@
 
 # constants
 DIR="contoso-pets"
-REPOS="https://github.com/MicrosoftDocs/mslearn-aspnet-core"
+REPOS="https://github.com/SeSeKenny/mslearn-aspnet-core"
 BRANCH=$gitBranch
 
 # input parameters
